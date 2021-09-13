@@ -1,0 +1,12 @@
+
+form{
+    border: 4px solid black;
+    background-color: chartreuse;
+    margin-top: 45vh;
+}
+
+input{
+    display: block;
+    margin: auto;
+    margin: 4px auto;
+}
